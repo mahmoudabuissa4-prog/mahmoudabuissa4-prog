@@ -12,10 +12,10 @@ I enjoy developing applications, exploring emerging technologies, and solving re
 - Software Engineering and Web Development
 
  Technical Skills
-- Languages:Python, JavaScript, C++, SQL
-- Web Development: React.js, Node.js, Express.js
-- Databases: MongoDB
-- Tools: Git, GitHub, VS Code
+- Languages:Python,JavaScript, C++, SQL
+- Web Development:React.js, Node.js, Express.js
+- Databases:MongoDB
+- Tools:Git,GitHub, VS Code
 - Cloud & AI: AWS fundamentals, AI-assisted development
 
  Projects
