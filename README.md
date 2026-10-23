@@ -6,19 +6,19 @@ I'm a Computer Engineering graduate from Al-Balqa Applied University, Jordan, in
 
 I enjoy developing applications, exploring emerging technologies, and solving real-world problems through software.
 
- Areas of Interest
+## Areas of Interest
 - Cloud Computing and AWS
 - Artificial Intelligence and Generative AI
 - Software Engineering and Web Development
 
- Technical Skills
+## Technical Skills
 - Languages:Python,JavaScript, C++, SQL
 - Web Development:React.js, Node.js, Express.js
 - Databases:MongoDB
 - Tools:Git,GitHub, VS Code
 - Cloud & AI: AWS fundamentals, AI-assisted development
 
- Projects
+## Projects
 - Convably: An AI-powered sales assistant for online stores that helps automate customer conversations and product discovery. (Private project)
 - Waraqa: An IoT-based farm automation and monitoring framework integrating software, hardware, and real-time monitoring.
 
